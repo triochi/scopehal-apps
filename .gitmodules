@@ -3,7 +3,7 @@
 	url = ../scopehal.git
 [submodule "doc"]
 	path = doc
-	url = ../scopehal-docs.git
+	url = https://github.com/ngscopeclient/scopehal-docs.git
 [submodule "src/imgui"]
 	path = src/imgui
 	url = https://github.com/ngscopeclient/imgui.git
